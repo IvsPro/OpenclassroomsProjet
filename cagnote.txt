@@ -1,0 +1,1 @@
+Voici le code qui va se charger de la partie front-end du projet de cagnote, Merci openclassroom.
